@@ -1,0 +1,46 @@
+*{margin: 0;
+    padding: 0;
+    font-family: Broadway;
+    color: black;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-image: url("media/pic3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+.navbar{
+    margin-right: 40%;
+    margin-left: 40%;
+}
+.navbar h1{
+    font-size: xxx-large;
+    font-family: Broadway;
+
+
+}
+.column1{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.column1 h2{
+    margin-top: 5%;
+    font-family: Broadway;
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+
+}
+.column2{
+    margin-left: 0%;
+    margin-right: 30%;
+}
+.column2 h3{
+    font-family: Broadway;
+    font-size: xx-large;
+    color: black;
+    margin-left: 50%;
+    margin-top: 2%;
+}
